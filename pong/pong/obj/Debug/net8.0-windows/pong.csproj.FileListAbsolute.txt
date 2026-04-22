@@ -1,0 +1,16 @@
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\pong.Form1.resources
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\pong.csproj.GenerateResource.cache
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\pong.AssemblyInfoInputs.cache
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\pong.AssemblyInfo.cs
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\pong.csproj.CoreCompileInputs.cache
+C:\Users\1ap\source\repos\pong\pong\bin\Debug\net8.0-windows\pong.exe
+C:\Users\1ap\source\repos\pong\pong\bin\Debug\net8.0-windows\pong.deps.json
+C:\Users\1ap\source\repos\pong\pong\bin\Debug\net8.0-windows\pong.runtimeconfig.json
+C:\Users\1ap\source\repos\pong\pong\bin\Debug\net8.0-windows\pong.dll
+C:\Users\1ap\source\repos\pong\pong\bin\Debug\net8.0-windows\pong.pdb
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\pong.dll
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\refint\pong.dll
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\pong.pdb
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\pong.genruntimeconfig.cache
+C:\Users\1ap\source\repos\pong\pong\obj\Debug\net8.0-windows\ref\pong.dll
